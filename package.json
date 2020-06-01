@@ -1,0 +1,12 @@
+{
+  "name": "pc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "mocha": "^7.2.0",
+    "puppeteer": "^3.2.0",
+    "should": "^13.2.3"
+  }
+}
